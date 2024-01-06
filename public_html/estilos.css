@@ -1,0 +1,31 @@
+.boton {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 1.8rem;
+    padding: 1rem 3rem;
+    margin-top: calc(5rem / 2);
+    display: inline-block;
+    text-align: center;
+    border: none;
+    display: block;
+    flex: 0 0 100%;
+}
+.boton-verde{
+    background-color: #71B100;
+    border-radius: 15px;
+}
+h1{
+    color:#71B100;
+}
+label{
+    display:block;
+    }
+.invisible{
+    visibility: hidden;
+}
+.texto{
+    color: chartreuse;
+    background-color: crimson;
+    font-size: large;
+}
